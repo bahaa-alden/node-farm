@@ -1,0 +1,8 @@
+﻿^1.1.1 major minor patch
+the third to fix bugs
+its ^1.1 and found a bug ^1.1.1 1.1.2
+the second for features without break code
+the first for release
+the ^ for accept the patch and minor releases
+npm install slugify@1.0.0
+~ for pug fixes and not minor
