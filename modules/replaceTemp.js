@@ -9,4 +9,4 @@
   output = output.replace(/{%ID%}/g, pro.id-1);
   if (!pro.organic) output = output.replace("{%not%}", "not-organic");
   return output;
-};
+}; 
